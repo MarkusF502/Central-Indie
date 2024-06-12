@@ -15,7 +15,9 @@ body{
     border: solid 3px #ff7f27;
 }
 legend{
+    font-size: 7pt;
     text-align: center;
+    
 }
 .navbar {
     display: flex;
@@ -106,7 +108,7 @@ h2 {
     font-size: 16px;
     margin-top: 10px;
 }
-p{  
+p{  font-size: 13pt;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin-bottom: 15px;
 }
